@@ -1,4 +1,4 @@
-# Administración de Sistemas Operativos
+# Administración de Cloud
 
 Repositorio de las prácticas de CLOUD.
 
