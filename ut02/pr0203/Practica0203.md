@@ -67,4 +67,4 @@ Porcentaje de ahorro:
 
 Conclusión: almacenar las copias de seguridad en S3 Glacier Flexible Retrieval permitiría ahorrar aproximadamente 397,31 $ al mes, es decir, un 84,34 % respecto a S3 Standard, utilizando estos precios de referencia. 
 
-
+[Volver al inicio](../index.md)
